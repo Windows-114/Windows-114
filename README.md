@@ -1,4 +1,3 @@
-![](http://antzuhl.cn:4000/get/@Windows-114.readme)
 ![简介图](./Windows_114_ForGithub.png)
 <!--
 **Windows-114/Windows-114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
