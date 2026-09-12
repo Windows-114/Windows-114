@@ -1,5 +1,6 @@
 ![简介图](./Windows_114_ForGithub.png)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Windows-114&show_icons=true&include_all_commits=true&theme=light_github)](https://github-stats-extended.vercel.app/api?username=Windows-114&show_icons=true&include_all_commits=true&theme=light_github)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Windows-114)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **Windows-114/Windows-114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
