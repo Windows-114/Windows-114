@@ -1,5 +1,5 @@
 ![简介图](./Windows_114_ForGithub.png)
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username={Windows-114}&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Windows-114&show_icons=true&include_all_commits=true&theme=light_github)](https://github-stats-extended.vercel.app/api?username=Windows-114&show_icons=true&include_all_commits=true&theme=light_github)
 <!--
 **Windows-114/Windows-114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
