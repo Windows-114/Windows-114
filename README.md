@@ -3,7 +3,6 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/JAVA-red?style=for-the-badge&logo=openjdk&logoColor=ffffff)
 <!--
 **Windows-114/Windows-114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
