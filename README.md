@@ -1,5 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Windows114)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Windows-114)
+![](http://antzuhl.cn:4000/get/@Windows-114.readme)
 
 <!--
 **Windows-114/Windows-114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
